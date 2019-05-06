@@ -54,7 +54,8 @@ class ProductController extends Controller
      */
     public function show($id)
     {
-        //
+        $product = Product::find($id);
+        return response()->json(['status' => 'Success', 'data' => $product]);
     }
 
     /**
