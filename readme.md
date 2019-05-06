@@ -6,6 +6,6 @@ This project is a demonstration project for tutorial [REST API in Laravel with C
 
 Download this project and customize it as you wish. Make it yours!
 
-##coderaweso.me
+## coderaweso.me
 
 Prefer working with Laravel, MEAN Stack, Worpdress and traveling to the Dark Side of Web. Follow me if you like.
